@@ -29,5 +29,5 @@ Please adhere to this project's `code of conduct`.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/datvly/Rock-Paper-Scissor-Game/blob/main/Picture.png)
+![App Screenshot](https://github.com/datvly/Rock-Paper-Scissor-Game/blob/main/Picture.jpg)
 
