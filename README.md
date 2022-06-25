@@ -1,5 +1,5 @@
 
-✊🖐✌️  🏼Rock Paper Scissor
+#✊🏼🖐🏼✌🏼🏼Rock Paper Scissor
 
 
 In this project, we're going to play rock paper scissor with a robot that will have many different outcomes.
